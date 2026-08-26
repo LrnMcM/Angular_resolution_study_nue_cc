@@ -1,7 +1,12 @@
 Opening angle between pi and e
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/e1bf68fb-eec6-419b-8314-dcd3ea5ee480" />
 
+
+
+
 FOR FULLY CHEATED WORKFLOW - 12407 PAIRS
+
+
 
 
 Theta difference between pi and e (x and z)
@@ -14,9 +19,15 @@ Rho difference between pi and e (y and x)
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/8fe6bb03-0cae-4522-9443-4daddbc089a9" />
 
 Combined plot of angle difference
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/d4e4057f-3420-4440-86aa-acb0525c067c" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/82a0302b-028a-4099-931e-d783d1449de8" />
+
+
+
+
 
 FOR PARTIALLY CHEATED WORKFLOW - 4501 PAIRS 
+
+
 
 
 Theta difference between pi and e (x and z)
