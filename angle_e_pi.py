@@ -72,7 +72,7 @@ def rootTreeToDataFrame():
     theta_e_pi = np.arccos(cos_theta_clipped)
     """
 
-    #get theta: the angle between x and z for the pion and electron
+    #get theta: the angle between x and z for the pion and electron, do not need to clip as arctan2 does it automatically
     theta_pion = np.arctan2(pi_pairs["x"], pi_pairs["z"])
     #theta_pi_clip = ak.where(theta_pion > np.pi, np.pi, ak.where(theta_pion < -np.pi, -np.pi, theta_pion))
     theta_electron = np.arctan2(e_pairs["x"], e_pairs["z"])
@@ -98,7 +98,7 @@ def rootTreeToDataFrame():
     plt.savefig(figname)
     plt.close()
 
-    #get phi: the angle between y and z for the pion and electron
+    #get phi: the angle between y and z for the pion and electron, do not need to clip as arctan2 does it automatically
     phi_pion = np.arctan2(pi_pairs["y"], pi_pairs["z"])
     #phi_pi_clip = ak.where(phi_pion > np.pi, np.pi, ak.where(phi_pion < -np.pi, -np.pi, phi_pion))
     phi_electron = np.arctan2(e_pairs["y"], e_pairs["z"])
@@ -126,7 +126,7 @@ def rootTreeToDataFrame():
     plt.close()
     
 
-    #get rho: the angle between x and y for the pion and electron
+    #get rho: the angle between x and y for the pion and electron, do not need to clip as arctan2 does it automatically
     rho_pion = np.arctan2(pi_pairs["y"], pi_pairs["x"])
     #rho_pi_clip = ak.where(rho_pion > np.pi, np.pi, ak.where(rho_pion < -np.pi, -np.pi, rho_pion))
     rho_electron = np.arctan2(e_pairs["y"], e_pairs["x"])
