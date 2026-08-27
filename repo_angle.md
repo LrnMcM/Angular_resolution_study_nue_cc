@@ -1,9 +1,3 @@
-Opening angle between pi and e
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/e1bf68fb-eec6-419b-8314-dcd3ea5ee480" />
-
-
-
-
 FOR FULLY CHEATED WORKFLOW - 12407 PAIRS
 
 
@@ -36,6 +30,55 @@ Rho difference between pi and e (y and x)
 
 Combined plot of angle difference
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/9e6b9fb1-bf0c-4051-b39a-5974af3cb51b" />
+
+
+INTERFACE 
+
+Theta difference between pi and e (x and z)
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/2a2ee5f3-c7fa-431f-9862-35d9aa26ffb3" />
+
+Phi difference between pi and e (y and z)
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/1ecdc741-253a-4e8d-905b-88540d706125" />
+
+Rho difference between pi and e (y and x)
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/c60909e3-25ca-4d13-a32c-56f641a1472b" />
+
+Combined plot of angle difference
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/ab4d45ae-cbd3-4994-819e-673b0b6fb682" />
+
+
+
+
+TRACK START
+Theta difference between pi and e (x and z)
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/4fb5e827-cc2c-4105-8739-b600964d1a46" />
+
+Phi difference between pi and e (y and z)
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/1df7a39f-60e9-436a-9e33-fbf980e7f897" />
+
+Rho difference between pi and e (y and x)
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/830b4a78-9f21-429e-82af-fa6e314023c8" />
+
+Combined plot of angle difference
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/568dbd97-be71-49a3-bb53-b0a37a9ccb87" />
+
+
+
+TRACK END
+Theta difference between pi and e (x and z)
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/e0a1a406-fe3f-459e-80c4-092434cb9cde" />
+
+Phi difference between pi and e (y and z)
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/0d872399-6796-4b58-a158-5b3e0dfc8103" />
+
+Rho difference between pi and e (y and x)
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/6cd3d2c0-fa87-4937-82f4-cb680250352e" />
+
+Combined plot of angle difference
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/e2e4be89-d7f1-44c2-9f85-db96c0409069" />
+
+
+
 
 FOR PARTIALLY CHEATED WORKFLOW - 4501 PAIRS 
 
