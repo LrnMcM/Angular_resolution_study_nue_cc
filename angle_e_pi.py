@@ -368,7 +368,7 @@ def rootTreeToDataFrame():
     ax.hist(trkend_pi_theta_numpy, bins=bins, histtype="step",linewidth=2, label="Pion")
     ax.set_xlabel(r"$\theta$ (rad)")
     ax.set_ylabel("Count")
-    ax.set_title(r"TrackStartDir $\theta$ for e and $\pi$")
+    ax.set_title(r"TrackEndtDir $\theta$ for e and $\pi$")
     ax.legend()
     figname = "trkend_theta_e_vs_pi.png"
     print(f"Saving {figname}...")
@@ -381,7 +381,7 @@ def rootTreeToDataFrame():
     ax.hist(trkend_pi_phi_numpy, bins=bins, histtype="step",linewidth=2, label="Pion")
     ax.set_xlabel(r"$\phi$ (rad)")
     ax.set_ylabel("Count")
-    ax.set_title(r"TrackStartDir $\phi$ for e and $\pi$")
+    ax.set_title(r"TrackEndDir $\phi$ for e and $\pi$")
     ax.legend()
     figname = "trkend_phi_e_vs_pi.png"
     print(f"Saving {figname}...")
@@ -394,7 +394,7 @@ def rootTreeToDataFrame():
     ax.hist(trkend_pi_rho_numpy, bins=bins, histtype="step",linewidth=2, label="Pion")
     ax.set_xlabel(r"$\rho$ (rad)")
     ax.set_ylabel("Particles")
-    ax.set_title(r"TrackStartDir $\rho$ for e and $\pi$")
+    ax.set_title(r"TrackEndDir $\rho$ for e and $\pi$")
     ax.legend()
     figname = "trkend_rho_e_vs_pi.png"
     print(f"Saving {figname}...")
@@ -465,7 +465,7 @@ def rootTreeToDataFrame():
     ax.hist(trkstrt_pi_theta_numpy, bins=bins, histtype="step",linewidth=2, label="Pion")
     ax.set_xlabel(r"$\theta$ (rad)")
     ax.set_ylabel("Count")
-    ax.set_title(r"TrackEndDir $\theta$ for e and $\pi$")
+    ax.set_title(r"TrackStartDir $\theta$ for e and $\pi$")
     ax.legend()
     figname = "trkstrt_theta_e_vs_pi.png"
     print(f"Saving {figname}...")
@@ -478,7 +478,7 @@ def rootTreeToDataFrame():
     ax.hist(trkstrt_pi_phi_numpy, bins=bins, histtype="step",linewidth=2, label="Pion")
     ax.set_xlabel(r"$\phi$ (rad)")
     ax.set_ylabel("Count")
-    ax.set_title(r"TrackEndDir $\phi$ for e and $\pi$")
+    ax.set_title(r"TrackStartDir $\phi$ for e and $\pi$")
     ax.legend()
     figname = "trkstrt_phi_e_vs_pi.png"
     print(f"Saving {figname}...")
@@ -491,7 +491,7 @@ def rootTreeToDataFrame():
     ax.hist(trkstrt_pi_rho_numpy, bins=bins, histtype="step",linewidth=2, label="Pion")
     ax.set_xlabel(r"$\rho$ (rad)")
     ax.set_ylabel("Particles")
-    ax.set_title(r"TrackEndDir $\rho$ for e and $\pi$")
+    ax.set_title(r"TrackStartDir $\rho$ for e and $\pi$")
     ax.legend()
     figname = "trkstrt_rho_e_vs_pi.png"
     print(f"Saving {figname}...")
