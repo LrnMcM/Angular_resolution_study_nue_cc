@@ -54,7 +54,7 @@ PHI
 RHO
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/2cde63ef-de48-41d0-a645-23ad642436f1" />
 
-PARTIALLY CHEATED
+FULLY CHEATED
 
 TRUTH 
 
