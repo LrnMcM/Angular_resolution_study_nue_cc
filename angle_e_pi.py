@@ -268,7 +268,7 @@ def rootTreeToDataFrame():
     ax.hist(intrf_pi_theta_numpy, bins=bins, histtype="step",linewidth=2, label="Pion")
     ax.set_xlabel(r"$\theta$ (rad)")
     ax.set_ylabel("Count")
-    ax.set_title(r"Shower $\theta$ for e and $\pi$")
+    ax.set_title(r"Interface $\theta$ for e and $\pi$")
     ax.legend()
     figname = "intrf_theta_e_vs_pi.png"
     print(f"Saving {figname}...")
@@ -281,7 +281,7 @@ def rootTreeToDataFrame():
     ax.hist(intrf_pi_phi_numpy, bins=bins, histtype="step",linewidth=2, label="Pion")
     ax.set_xlabel(r"$\phi$ (rad)")
     ax.set_ylabel("Count")
-    ax.set_title(r"Shower $\phi$ for e and $\pi$")
+    ax.set_title(r"Interface $\phi$ for e and $\pi$")
     ax.legend()
     figname = "intrf_phi_e_vs_pi.png"
     print(f"Saving {figname}...")
@@ -294,7 +294,7 @@ def rootTreeToDataFrame():
     ax.hist(intrf_pi_rho_numpy, bins=bins, histtype="step",linewidth=2, label="Pion")
     ax.set_xlabel(r"$\rho$ (rad)")
     ax.set_ylabel("Particles")
-    ax.set_title(r"Shower $\rho$ for e and $\pi$")
+    ax.set_title(r"Interface $\rho$ for e and $\pi$")
     ax.legend()
     figname = "intrf_rho_e_vs_pi.png"
     print(f"Saving {figname}...")
