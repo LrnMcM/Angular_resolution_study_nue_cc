@@ -707,4 +707,61 @@ def rootTreeToDataFrame():
     plt.savefig(figname)
     plt.close()
 
+
+
+    #for comparaison's sake
+    fig, axes = plt.subplots(3, 2,figsize=(16, 18),layout="constrained")
+
+    ax = axes[0, 0]
+    ax.hist(mc_dtheta, bins=50, histtype="step",linewidth=2, label=r"$d\theta$")
+    ax.hist(mc_dphi, bins=50, histtype="step",linewidth=2, label=r"$d\phi$")
+    ax.hist(mc_drho, bins=50, histtype="step",linewidth=2, label=r"$d\rho$")
+    ax.set_xlabel("Angle difference (rad)")
+    ax.set_ylabel(r"e-$\pi$ pairs")
+    ax.set_title("Truth angle differences")
+    ax.legend()
+
+    ax = axes[0, 1]
+    ax.hist(shwr_dtheta, bins=50, histtype="step",linewidth=2, label=r"$d\theta$")
+    ax.hist(shwr_dphi, bins=50, histtype="step",linewidth=2, label=r"$d\phi$")
+    ax.hist(shwr_drho, bins=50, histtype="step",linewidth=2, label=r"$d\rho$")
+    ax.set_xlabel("Angle difference (rad)")
+    ax.set_ylabel(r"e-$\pi$ pairs")
+    ax.set_title("Shower angle differences")
+    ax.legend()
+
+    ax = axes[1, 0]
+    ax.hist(int_dtheta, bins=50, histtype="step",linewidth=2, label=r"$d\theta$")
+    ax.hist(int_dphi, bins=50, histtype="step",linewidth=2, label=r"$d\phi$")
+    ax.hist(int_drho, bins=50, histtype="step",linewidth=2, label=r"$d\rho$")
+    ax.set_xlabel("Angle difference (rad)")
+    ax.set_ylabel(r"e-$\pi$ pairs")
+    ax.set_title("Interface angle differences")
+    ax.legend()
+
+    ax = axes[1, 1]
+    ax.hist(trkstrt_dtheta, bins=50, histtype="step",linewidth=2, label=r"$d\theta$")
+    ax.hist(trkstrt_dphi, bins=50, histtype="step",linewidth=2, label=r"$d\phi$")
+    ax.hist(trkstrt_drho, bins=50, histtype="step",linewidth=2, label=r"$d\rho$")
+    ax.set_xlabel("Angle difference (rad)")
+    ax.set_ylabel(r"e-$\pi$ pairs")
+    ax.set_title("TrackStartDir angle differences")
+    ax.legend()
+
+    ax = axes[2, 0]
+    ax.hist(trkend_dtheta, bins=50, histtype="step",linewidth=2, label=r"$d\theta$")
+    ax.hist(trkend_dphi, bins=50, histtype="step",linewidth=2, label=r"$d\phi$")
+    ax.hist(trkend_drho, bins=50, histtype="step",linewidth=2, label=r"$d\rho$")
+    ax.set_xlabel("Angle difference (rad)")
+    ax.set_ylabel(r"e-$\pi$ pairs")
+    ax.set_title("TrackEndDir angle differences")
+    ax.legend()
+
+    axes[2, 1].axis("off")
+    figname = "all_dall_angles_in_one_e_pi.png"
+    print(f"Saving {figname}...")
+    plt.savefig(figname, dpi=300)
+    plt.close()
+
+
 rootTreeToDataFrame()
