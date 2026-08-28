@@ -23,6 +23,8 @@ Todo 28/08/26
 - Get better visualised plots to put in report of angles, delta angles work with combined plots ish but actual angle plots are not up to standard, make multiples? 5 in one or something or plot on same axes? play arround and see
 - Run for fully cheated (easy)¨
 - Figure out what José's email means: do I have an active ECL account? if so what is my password...
+
+  
 28/08/26
 - Figure out how to sign up for shadow shift (see with Eva, she has successfully done it)
 - Run fully cheated + add to the doc
