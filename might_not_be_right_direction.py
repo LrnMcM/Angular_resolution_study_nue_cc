@@ -107,7 +107,7 @@ def flatten_array(angles):
         angles[name]["drho"] = ak.to_numpy(ak.flatten(angles[name]["drho"], axis=None))
     return angles
 
-def plot_mc_reco(truth, reco, angle_name,reco_name, cut=1.5):
+def plot_mc_reco(truth, reco, angle_name, reco_name, cut=1.5):
     #sets up plotting for ease later
     fig, ax = plt.subplots(figsize=(8, 8), layout="constrained")
     angle_symbols = {"theta": r"\theta","phi": r"\phi","rho": r"\rho",}
@@ -131,18 +131,22 @@ def apply_all_function(data, cut=1.5):
     angles = flatten_array(angles)
     print(f"\nNumber of e-pi pairs after common, angle cut = {len(angles['MC']['dtheta'])}")
     truth = angles["MC"]
-    plot_mc_reco(truth["dtheta"], angles["Shower"]["dtheta"], "theta", "Shower", cut)
-    plot_mc_reco(truth["dphi"], angles["Shower"]["dphi"], "phi", "Shower", cut)
-    plot_mc_reco(truth["drho"], angles["Shower"]["drho"], "rho", "Shower", cut)
-    plot_mc_reco(truth["dtheta"], angles["Interface"]["dtheta"], "theta", "Interface", cut)
-    plot_mc_reco(truth["dphi"], angles["Interface"]["dphi"], "phi", "Interface", cut)
-    plot_mc_reco(truth["drho"], angles["Interface"]["drho"], "rho", "Interface", cut)
-    plot_mc_reco(truth["dtheta"], angles["TrackStart"]["dtheta"], "theta", "TrackStart", cut)
-    plot_mc_reco(truth["dphi"], angles["TrackStart"]["dphi"], "phi", "TrackStart", cut)
-    plot_mc_reco(truth["drho"], angles["TrackStart"]["drho"], "rho", "TrackStart",cut)
-    plot_mc_reco(truth["dtheta"], angles["TrackEnd"]["dtheta"], "theta", "TrackEnd", cut)
-    plot_mc_reco(truth["dphi"], angles["TrackEnd"]["dphi"], "phi", "TrackEnd", cut)
-    plot_mc_reco(truth["drho"], angles["TrackEnd"]["drho"], "rho", "TrackEnd", cut)
+    shower = angles["Shower"]
+    interface = angles["Interface"]
+    trackstart = angles["TrackStart"]
+    trackend = angles["TrackEnd"]
+    plot_mc_reco(truth["dtheta"], shower["dtheta"], "theta", "Shower", cut)
+    plot_mc_reco(truth["dphi"], shower["dphi"], "phi", "Shower", cut)
+    plot_mc_reco(truth["drho"], shower["drho"], "rho", "Shower", cut)
+    plot_mc_reco(truth["dtheta"], interface["dtheta"], "theta", "Interface", cut)
+    plot_mc_reco(truth["dphi"], interface["dphi"], "phi", "Interface", cut)
+    plot_mc_reco(truth["drho"], interface["drho"], "rho", "Interface", cut)
+    plot_mc_reco(truth["dtheta"], trackstart["dtheta"], "theta", "TrackStart", cut)
+    plot_mc_reco(truth["dphi"], trackstart["dphi"], "phi", "TrackStart", cut)
+    plot_mc_reco(truth["drho"], trackstart["drho"], "rho", "TrackStart",cut)
+    plot_mc_reco(truth["dtheta"], trackend["dtheta"], "theta", "TrackEnd", cut)
+    plot_mc_reco(truth["dphi"], trackend["dphi"], "phi", "TrackEnd", cut)
+    plot_mc_reco(truth["drho"], trackend["drho"], "rho", "TrackEnd", cut)
     return angles
 
 def rootTreeToDataFrame():
