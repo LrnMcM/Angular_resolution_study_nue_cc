@@ -78,6 +78,10 @@ Combined plot of angle difference
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/e2e4be89-d7f1-44c2-9f85-db96c0409069" />
 
 
+FOR COMPARAISON'S SAKE
+<img width="4800" height="5400" alt="image" src="https://github.com/user-attachments/assets/a2f8170c-cff3-416b-8131-e54f07127775" />
+
+
 
 
 FOR PARTIALLY CHEATED WORKFLOW - 4501 PAIRS 
@@ -157,6 +161,8 @@ Combined plot of angle difference
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/5f123d3e-2ee4-49af-ab87-2cf884f922a5" />
 
 
-  
+FOR COMPARAISON'S SAKE
+<img width="4800" height="5400" alt="image" src="https://github.com/user-attachments/assets/8ef9f869-a420-4133-8895-186bb533ed0d" />
+
 
 
