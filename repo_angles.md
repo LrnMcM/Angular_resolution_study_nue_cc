@@ -1,3 +1,6 @@
+
+PARTIALLY CHEATED
+
 TRUTH 
 
 THETA
@@ -22,13 +25,13 @@ RHO
 
 INTERFACE 
 THETA
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/c9ea2305-67ad-47d8-aab3-f18a5f3d8218" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/e38c8f9c-53e5-4bc1-ac49-2aea89cddc64" />
 
 PHI
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/779979d1-f1ee-41c8-9131-5f57ee3dd970" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/82bd2057-3eb5-4b02-b863-4ce331c0aa58" />
 
 RHO
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/a7c1eae8-6155-4ae9-97e6-2d6be892f660" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/8973362a-74b1-4adc-bdd3-0f16e8eaa540" />
 
 TRACKSTART 
 THETA
@@ -43,10 +46,69 @@ RHO
 
 TRACKEND
 THETA
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/df8945f8-6b87-41be-b447-1599dc441a23" />
+
 PHI
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/83e5d651-4ff3-4f32-ab2d-be25e3f5e97e" />
 
 RHO
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/2cde63ef-de48-41d0-a645-23ad642436f1" />
+
+PARTIALLY CHEATED
+
+TRUTH 
+
+THETA
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/896fb509-a467-4dec-8d8e-d627de47d0f8" />
+
+PHI
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/647db47a-da9b-466c-a70d-ff8a22e8c30c" />
+
+RHO
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/a6ef7e15-4e2a-4c04-820e-b5ed493acc13" />
+
+SHOWER
+
+THETA 
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/392b8cb4-1ebe-4344-847e-bfb094c15fd7" />
+
+PHI
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/5c6236a5-c023-4e5c-b26e-853ff53098f2" />
+
+RHO
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/87e32718-783b-4ba6-93ac-9a4ebb2b6ac2" />
+
+INTERFACE 
+THETA
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/68e4284d-44a0-4fb7-9752-73b67e2687da" />
+
+PHI
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/9641bdbe-b82a-412d-92e3-1aa579bf61ed" />
+
+RHO
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/ab086f2d-1803-4e61-bc62-38d635d7497e" />
+
+TRACKSTART 
+
+THETA
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/f9c52c69-050f-43d3-86e7-7528f0f03d76" />
+
+PHI
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/50f17813-1a7b-4559-89a6-6004cb38cfbb" />
+
+RHO
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/717203c4-e60d-42cc-851f-d66b70dda9a9" />
+
+
+TRACKEND
+THETA
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/82b2131b-0963-4d3b-b4b4-279accc6c022" />
+
+PHI
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/97fca740-a992-4e48-a61c-052ad4542a21" />
+
+RHO
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/74698ff5-653d-45a6-aaad-bd8c7fde4c02" />
+
 
 
