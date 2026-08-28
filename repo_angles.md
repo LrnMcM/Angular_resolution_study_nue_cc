@@ -112,3 +112,65 @@ RHO
 
 
 
+
+
+
+TOGETHER
+
+TRUTH 
+
+THETA
+<img width="2000" height="800" alt="image" src="https://github.com/user-attachments/assets/a8b2ee77-bb2d-4e81-800e-cfcb81790e26" />
+
+PHI
+<img width="2000" height="800" alt="image" src="https://github.com/user-attachments/assets/e705ed3c-533d-4999-ae66-393bf063a401" />
+
+RHO
+<img width="2000" height="800" alt="image" src="https://github.com/user-attachments/assets/0bcc2019-6df3-49e6-b083-108b224bf497" />
+
+SHOWER
+
+THETA
+<img width="2000" height="800" alt="image" src="https://github.com/user-attachments/assets/c2af2308-e3c3-4e04-b8b9-d475d47e6a11" />
+
+PHI
+<img width="2000" height="800" alt="image" src="https://github.com/user-attachments/assets/7ab4aeea-edf3-487d-8dd6-ca8a57a01cc3" />
+
+RHO
+<img width="2000" height="800" alt="image" src="https://github.com/user-attachments/assets/f4b9eea2-5886-4287-8b35-c0bf1bc59cf6" />
+
+INTERFACE
+
+THETA
+<img width="2000" height="800" alt="image" src="https://github.com/user-attachments/assets/e01ac2bb-bc2a-4798-b02e-0a6192525837" />
+
+PHI
+<img width="2000" height="800" alt="image" src="https://github.com/user-attachments/assets/814c3301-c723-4f38-847e-f5452ab07098" />
+
+RHO
+<img width="2000" height="800" alt="image" src="https://github.com/user-attachments/assets/d2ba1588-4885-4f90-a47f-ed69aebb7ef4" />
+
+TRACKSTART
+
+THETA
+<img width="2000" height="800" alt="image" src="https://github.com/user-attachments/assets/f4f92005-ffa6-42ca-b324-25cb3b41fe22" />
+
+PHI
+<img width="2000" height="800" alt="image" src="https://github.com/user-attachments/assets/566a097d-0510-4766-b14f-c14e222c7e80" />
+
+RHO
+<img width="2000" height="800" alt="image" src="https://github.com/user-attachments/assets/cb9b2881-1275-4e8d-8c07-dcb0a0e8e693" />
+
+
+TRACKEND
+
+THETA
+<img width="2000" height="800" alt="image" src="https://github.com/user-attachments/assets/b8d83555-e6c3-4fa0-8abb-c312840bad74" />
+
+PHI
+<img width="2000" height="800" alt="image" src="https://github.com/user-attachments/assets/2ae9fe7c-7bb2-4e42-a6b5-93729adaa101" />
+
+RHO
+<img width="2000" height="800" alt="image" src="https://github.com/user-attachments/assets/1d745ce6-69ce-4ad2-b4b3-4ba4632cec24" />
+
+
