@@ -112,6 +112,50 @@ Rho difference between pi and e (y and x)
 Combined plot of angle difference
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/ae13faac-1fc3-429f-8931-1ff9205e641c" />
 
+INTERFACE
+
+Theta difference between pi and e (x and z)
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/ac7236cb-e21b-43ac-8616-18f86d1395a3" />
+
+Phi difference between pi and e (y and z)
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/a13da67f-d950-4b64-bac2-0db0f5691bce" />
+
+Rho difference between pi and e (y and x)
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/5fc120be-76c4-48e3-ab8e-0446b0b9530e" />
+
+Combined plot of angle difference
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/ff7efb6d-4afb-4804-9ca3-20d6c6ca34df" />
+
+
+TRACKSTART
+
+Theta difference between pi and e (x and z)
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/89e3dd37-d04e-4cd3-88de-fc9660e11e2e" />
+
+Phi difference between pi and e (y and z)
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/fcaf4b97-d603-43bf-b5b6-a969fd92bf31" />
+
+Rho difference between pi and e (y and x)
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/5a36cac8-7ded-47fc-9af7-bb950d290d11" />
+
+Combined plot of angle difference
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/6148535e-390d-4c51-9062-e04cc4418420" />
+
+
+TRACKEND 
+
+Theta difference between pi and e (x and z)
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/2f3ebc96-42da-4dc5-93c2-d8b35d4662fc" />
+
+Phi difference between pi and e (y and z)
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/5ccdadcc-9288-4dc5-bbab-7f2a4d538b26" />
+
+Rho difference between pi and e (y and x)
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/d0c40616-f273-499b-a669-4749a7a664c9" />
+
+Combined plot of angle difference
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/5f123d3e-2ee4-49af-ab87-2cf884f922a5" />
+
 
   
 
