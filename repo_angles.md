@@ -168,9 +168,9 @@ THETA
 <img width="2000" height="800" alt="image" src="https://github.com/user-attachments/assets/b8d83555-e6c3-4fa0-8abb-c312840bad74" />
 
 PHI
-<img width="2000" height="800" alt="image" src="https://github.com/user-attachments/assets/2ae9fe7c-7bb2-4e42-a6b5-93729adaa101" />
+<img width="2000" height="800" alt="image" src="https://github.com/user-attachments/assets/1d745ce6-69ce-4ad2-b4b3-4ba4632cec24" />
 
 RHO
-<img width="2000" height="800" alt="image" src="https://github.com/user-attachments/assets/1d745ce6-69ce-4ad2-b4b3-4ba4632cec24" />
+<img width="2000" height="800" alt="image" src="https://github.com/user-attachments/assets/2ae9fe7c-7bb2-4e42-a6b5-93729adaa101" />
 
 
