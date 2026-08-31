@@ -156,10 +156,10 @@ THETA
 <img width="2000" height="800" alt="image" src="https://github.com/user-attachments/assets/f4f92005-ffa6-42ca-b324-25cb3b41fe22" />
 
 PHI
-<img width="2000" height="800" alt="image" src="https://github.com/user-attachments/assets/566a097d-0510-4766-b14f-c14e222c7e80" />
+<img width="2000" height="800" alt="image" src="https://github.com/user-attachments/assets/cb9b2881-1275-4e8d-8c07-dcb0a0e8e693" />
 
 RHO
-<img width="2000" height="800" alt="image" src="https://github.com/user-attachments/assets/cb9b2881-1275-4e8d-8c07-dcb0a0e8e693" />
+<img width="2000" height="800" alt="image" src="https://github.com/user-attachments/assets/566a097d-0510-4766-b14f-c14e222c7e80" />
 
 
 TRACKEND
