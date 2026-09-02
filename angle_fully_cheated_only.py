@@ -20,8 +20,9 @@ def rootTreeToDataFrame():
     direction_sets = {
         "MC": ("mcPx", "mcPy", "mcPz"), 
         "Shower fit": ("shwrfitDirX", "shwrfitDirY", "shwrfitDirZ"),
-        "Track fit": ("dirX", "dirY", "dirZ"),
-        "Track start": ("trkfitStartDirX","trkfitStartDirY","trkfitStartDirZ"),"Track end": ("trkfitEndDirX","trkfitEndDirY","trkfitEndDirZ")
+        "Interface": ("dirX", "dirY", "dirZ"),
+        "Track start": ("trkfitStartDirX","trkfitStartDirY","trkfitStartDirZ"),
+        "Track end": ("trkfitEndDirX","trkfitEndDirY","trkfitEndDirZ")
     }
 
     #read data into arrays
